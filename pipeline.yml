@@ -1,5 +1,5 @@
 # Tasks should be execute from this branch
-branch: release
+branch: master
 
 #Things a wanna execute
 tasks:
